@@ -11,9 +11,9 @@
 
 .special-offer-container {
     height: 100vh;
-    width: 100%;
-    box-sizing: border-box;
-    padding-top: calc((100vh - 300px) / 2);
+    /* width: 100%;
+        box-sizing: border-box;
+        padding-top: calc((100vh - 300px) / 2); */
 }
 
 .special-offer-container div {
